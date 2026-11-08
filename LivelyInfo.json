@@ -1,0 +1,14 @@
+{
+  "AppVersion": "2.2.1.0",
+  "Title": "彩色流体 · 核显轻量版",
+  "Thumbnail": null,
+  "Preview": null,
+  "Desc": "30 FPS / 64 模拟网格 / 512 染料 / 1280 输出上限 / 无声音 / 全本地运行",
+  "Author": "wmyshen; fluid engine by Pavel Dobryakov",
+  "License": "MIT",
+  "Contact": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": "--pause-event true",
+  "IsAbsolutePath": false
+}
